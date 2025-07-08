@@ -1,7 +1,7 @@
 ---
 title: "About Me"
-author: ""
-ShowAuthor: false
+hidemeta: true
+description: "A brief introduction of myself."
 ---
 
 Hi there! I am a research master’s student in Communication Science at the University of Amsterdam, the Netherlands. My research focuses on social robotics and human machine communication.
