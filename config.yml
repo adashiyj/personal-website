@@ -45,18 +45,16 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
+          title: Ada Shi
+          subtitle: "I am a research master's student in Communication Science at the University of Amsterdam, the Netherlands. My research focuses on social robotics and human machine communication."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
           buttons:
             - name: Projects
               url: projects/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
+            - name: Research interests
+              url: researchinterests/
             - name: Blog
               url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
@@ -76,7 +74,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Ada Shi"
       icon: favicon.ico
       iconHeight: 18
 
