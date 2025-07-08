@@ -7,9 +7,6 @@ enableRobotsTXT: true
 pagination:
   pagerSize: 20
 
-taxonomies:
-    tag: tags
-
 menu:
     main:
         - name: Projects
