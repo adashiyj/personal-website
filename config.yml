@@ -19,7 +19,6 @@ menu:
 params:
     description: "This website hosts Ada Shi's curriculum vitae, contact information, projects, and blogs."
     author: Ada Shi
-    ShowAuthor: false
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
