@@ -2,7 +2,7 @@
 Hi there, my name is Ada.
 
 ## Education
-* Research master's Communication Science, University of Amsterdam, 2026 (Expected)
+* MSc (research) Communication Science, University of Amsterdam, 2026 (Expected)
 * BSc Communication Science, University of Amsterdam, 2024 (graduated with honors)
 
 ## Skills
