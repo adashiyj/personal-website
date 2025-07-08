@@ -1,4 +1,8 @@
-# About Me
+---
+title: "About Me"
+author: ""
+ShowAuthor: false
+---
 
 Hi there! I am a research master’s student in Communication Science at the University of Amsterdam, the Netherlands. My research focuses on social robotics and human machine communication.
 
