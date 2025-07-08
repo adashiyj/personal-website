@@ -1,4 +1,6 @@
-# About Me
+---
+title: "About Me"
+---
 Hi there, my name is Ada.
 
 ## Education
