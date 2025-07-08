@@ -7,6 +7,14 @@ enableRobotsTXT: true
 pagination:
   pagerSize: 20
 
+menu:
+    main:
+        - name: About Me
+          url: aboutme/
+          weight: 1 
+        - name: Projects
+          url: projects/
+          weight: 2
 
 params:
     description: "This website hosts Ada Shi's curriculum vitae, contact information, projects, and blogs."
@@ -24,6 +32,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
+    MainSections: ["aboutme","projects"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -39,6 +48,8 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
+            - name: About Me
+              url: aboutme/
             - name: Projects
               url: projects/
 
