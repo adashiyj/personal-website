@@ -10,10 +10,10 @@ pagination:
 menu:
     main:
         - name: About Me
-          url: /aboutme/
+          url: aboutme/
           weight: 1 
         - name: Projects
-          url: /projects/
+          url: projects/
           weight: 2
 
 params:
