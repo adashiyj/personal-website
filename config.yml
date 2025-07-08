@@ -43,14 +43,14 @@ params:
               url: projects/
 
     socialIcons:
-        - name: CV
-          url: cv.pdf
         - name: Email
           url: mailto:adashiyj@gmail.com
         - name: GitHub
           url: https://github.com/adashiyj
         - name: Bluesky
           url: https://@adashiyj.bsky.social
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/ada-yujia-s-495474251/
 
     assets:
         disableScrollBarStyle: true
