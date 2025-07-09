@@ -45,8 +45,8 @@ params:
           title: Ada Shi
           subtitle: "Hi there! Welcome to visit my website. I'm a research master's student in Communication Science at the University of Amsterdam. My research focuses on social robotics and human-machine communication."
           imageUrl: "picture.jpeg"
-          imageWidth: 160
-          imageHeight: 160
+          imageWidth: 250
+          imageHeight: 250
           buttons:
             - name: About Me
               url: aboutme/
@@ -70,7 +70,7 @@ params:
         hiddenInSingle: true
     label:
       text: "Ada Shi"
-      icon: favicon.ico
+      icon: /favicon.ico
       iconHeight: 18
 
 markup:
