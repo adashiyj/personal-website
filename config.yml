@@ -65,6 +65,7 @@ params:
 
     assets:
         disableScrollBarStyle: true
+        favicon: "favicon.ico"
     cover:
         hiddenInList: false
         hiddenInSingle: true
