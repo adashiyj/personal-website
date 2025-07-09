@@ -45,8 +45,8 @@ params:
           title: Ada Shi
           subtitle: "Hi there! Welcome to visit my website. I'm a research master's student in Communication Science at the University of Amsterdam. My research focuses on social robotics and human-machine communication."
           imageUrl: "picture.jpeg"
-          imageWidth: 200
-          imageHeight: 200
+          imageWidth: 180
+          imageHeight: 180
           buttons:
             - name: About Me
               url: aboutme/
