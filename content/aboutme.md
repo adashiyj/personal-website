@@ -15,13 +15,13 @@ Also, I just finished my second read of Kate Darling’s [*The New Breed*](https
 
 ##### Education
 
-- **MSc (Research) Communication Science**, University of Amsterdam, 2026 (Expected)
-- **BSc Communication Science**, University of Amsterdam, 2024 (Graduated with honors)
+- MSc (Research) Communication Science, University of Amsterdam, 2026 (Expected)
+- BSc Communication Science, University of Amsterdam, 2024 (Graduated with honors)
 
 ##### Skills
 
-- **Programming languages:** Python, R  
-- **Software:** SPSS, Atlas.ti
+- Programming languages: Python, R  
+- Software: SPSS, Atlas.ti
 
 ##### Research Interests
 
