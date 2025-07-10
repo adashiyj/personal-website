@@ -6,7 +6,7 @@ description: "A brief introduction of myself."
 
 Hi, my name is Ada. I'm originally from Yunnan, China, and I've been living in the Netherlands (mostly in Amsterdam) for almost four years. 
 
-You might be wondering why do I have an English/European name. Well, my mom actually named me Ada after her favorite character in *Cold Mountain*. It’s a little unusual, but I go by both Ada and 施雨伽, feel free to use whichever you like!
+You might be wondering why do I have an English/European name. Well, my mom actually named me Ada after her favorite character in *Cold Mountain*. It’s a little unusual, but I go by both Ada and 施雨伽, feel free to call me whichever you like!
 
 I'm a big fan of Baymax from *Big Hero 6* and a final-year research master’s student aiming for a PhD in social robotics starting Fall 2026. I’m fascinated by how people perceive and interact with social robots.
 
