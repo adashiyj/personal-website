@@ -1,6 +1,6 @@
 ---
-title: "Lectures at the Villa of Reduced Circumstances"
-date: 2003-03-10
+title: "Machines and Social Influence"
+date: 2025-07-10
 aliases: 
     - /courses/course2/slides4.pdf
     - /courses/course2/slides1.pdf
@@ -15,7 +15,6 @@ aliases:
     - /courses/course2/quiz3.pdf
     - /courses/course2/quiz4.pdf
     - /courses/course1/ps1.pdf
-tags: ["Romance languages","philology","irregular verbs","Spanish","Portuguese"]
 author: "Moritz-Maria von Igelfeld"
 description: "This graduate course presents classical results in Romance philology." 
 summary: "This graduate course presents classical results in Romance philology. it focuses especially on Portugese and Spanish irregular verbs." 
