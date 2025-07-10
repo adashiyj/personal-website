@@ -4,7 +4,11 @@ hidemeta: true
 description: "A brief introduction of myself."
 ---
 
-Hi! I’m Ada, a big fan of Baymax from *Big Hero 6* and a final-year research master’s student aiming for a PhD in social robotics starting Fall 2026. I’m fascinated by how people perceive and interact with social robots.
+Hi, my name is Ada. I'm originally from Yunnan, China, and I've been living in the Netherlands (mostly in Amsterdam) for almost four years. 
+
+You might be wondering why a Chinese person has an English/European name. My mom actually named me Ada after her favorite character in *Cold Mountain*. It’s a little unusual, but I go by both Ada and 施雨伽, feel free to use whichever you like!
+
+I'm a big fan of Baymax from *Big Hero 6* and a final-year research master’s student aiming for a PhD in social robotics starting Fall 2026. I’m fascinated by how people perceive and interact with social robots.
 
 Right now, I’m a research intern on a robots and social influence project led by Professor Jochen Peter, where I program multiple [NAO](https://aldebaran.com/en/nao6/) robots, my tiny “colleagues” who never complain (well, almost).
 
@@ -17,11 +21,6 @@ Also, I just finished my second read of Kate Darling’s [*The New Breed*](https
 
 - *MSc (Research) Communication Science*, University of Amsterdam, 2026 (Expected)
 - *BSc Communication Science*, University of Amsterdam, 2024 (Graduated with honors)
-
-##### Skills
-
-- Programming languages: Python, R  
-- Software: SPSS, Atlas.ti
 
 ##### Research Interests
 
