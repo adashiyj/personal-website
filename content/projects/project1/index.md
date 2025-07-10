@@ -1,6 +1,7 @@
 ---
 title: "Machines and Social Influence"
-summary: "This social robotics project is led by Prof. Jochen Peter. It examines whether social robots (used as exemplars) can influence people’s personal opinions." 
+summary: "This is an ongoing social robotics project led by Prof. Jochen Peter. It aims to examine whether social robots (used as exemplars) can influence people’s personal opinions." 
+date: 2025-07-10
 author: Peter et al.
 cover:
     image: "project1.png"
