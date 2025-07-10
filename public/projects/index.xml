@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on Ada Shi</title>
+    <link>https://adashiyj.github.io/projects/</link>
+    <description>Recent content in Projects on Ada Shi</description>
+    <generator>Hugo -- 0.148.0</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 10 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://adashiyj.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Machines and Social Influence</title>
+      <link>https://adashiyj.github.io/projects/project1/</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://adashiyj.github.io/projects/project1/</guid>
+      <description>This is an ongoing social robotics project led by Prof. Jochen Peter. It aims to examine whether social robots (used as exemplars) can influence people’s personal opinions.</description>
+    </item>
+  </channel>
+</rss>
