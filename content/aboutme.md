@@ -30,8 +30,8 @@ Also, I just finished my second read of Kate Darling’s [*The New Breed*](https
 
 ##### Hobbies
 
-- Hiking
+- Hiking - My dream is to land on the top of Mount Everest!
 - Tennis
 - Ceremics
-- Country and folk muisc 
+- Country and folk muisc - My favourite artists are Bob Dylan and Zach Bryan
 
