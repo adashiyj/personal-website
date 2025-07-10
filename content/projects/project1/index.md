@@ -1,18 +1,18 @@
 ---
 title: "Machines and Social Influence"
-date: 2025
+date: 2025-07-10
 aliases: 
     - /courses/course2/slides4.pdf
     - /courses/course2/slides1.pdf
-author: "Peter et al."
+author: "Ada Shi"
 description: "This graduate course presents classical results in Romance philology." 
-summary: "This graduate course presents classical results in Romance philology. it focuses especially on Portugese and Spanish irregular verbs." 
+summary: "This research project is led by Prof. Jochen Peter. The current study aims to investigate whether social robots as exemplars can influence people’s personal opinions." 
 cover:
     image: "project1.png"
     alt: "Four NAO robots"
     relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
+    URL: "https://github.com/UvA-CW-Robo-research/Multi-Nao-Speech-Orchestration"
     Text: "Project portal"
 showToc: true
 disableAnchoredHeadings: false
