@@ -18,6 +18,9 @@ menu:
         - name: Blogs
           url: blogs/
           weight: 3
+        - name: Search  
+          url: search/  
+          weight: 4
 
 params:
     description: "This website hosts Ada Shi's curriculum vitae, contact information, projects, and blogs."
@@ -90,3 +93,9 @@ markup:
         endLevel: 2
         ordered: false
         startLevel: 2
+
+outputs:
+     home:
+         - HTML
+         - RSS
+         - JSON
