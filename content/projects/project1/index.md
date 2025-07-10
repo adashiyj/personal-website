@@ -1,7 +1,7 @@
 ---
 title: "Machines and Social Influence"
 summary: "This social robotics project is led by Prof. Jochen Peter. It examines whether social robots (used as exemplars) can influence people’s personal opinions." 
-author: false
+author: Peter et al.
 cover:
     image: "project1.png"
     alt: "Four NAO robots"
@@ -14,12 +14,12 @@ disableAnchoredHeadings: false
 
 ---
 
-## Description
+## Introduction
 
 Communicating machines, in the form of social robots, have been found to exert social influence, in the form of group pressure, on humans' conformity behavior (typically demonstrated with conceptual replications of the famous Asch-type experiments). At the same time, research in the context of exemplification theory has shown that human exemplars can overrule (base-rate) information that people encounter in media texts, thus also exerting social influence on people (Zillmann & Brosius, 2000). Therefore, our study aims to investigate whether social robots as exemplars can influence people’s personal opinions. 
     
 
-##### Readings
+## Readings
 
 - Qin, X., Chen, C., Yam, K. C., Cao, L., Li, W., Guan, J., Zhao, P., Dong, X., & Lin, Y. (2022). Adults still can’t resist: A social robot can induce normative conformity. Computers in Human Behavior, 127, 107041-. https://doi.org/10.1016/j.chb.2021.107041
 - Brosius, H. B., & Bathelt, A. (1994). The Utility of Exemplars in Persuasive Communications. Communication Research, 21(1), 48–78. https://doi.org/10.1177/009365094021001004
