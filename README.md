@@ -73,6 +73,18 @@ This repository is licensed under the [MIT License](LICENSE.md).
 
 + [latex-cv](https://github.com/pmichaillat/latex-cv) - This LaTeX template produces a minimalist academic CV, which you can post on your website. The CV should be named `cv.pdf` and placed in the `static` folder. It will be accessible from the homepage via a social icon.
 
+## Host the personal website on Github Pages
+
++ Set up baseURL: "https://adashiyj.github.io/" in `config.yaml`
++ Terminal: `cd /Users/ada/Documents/GitHub/personal-website` -> `hugo` -> `cd public
+git init
+git remote add origin https://github.com/adashiyj/adashiyj.github.io.git
+git add .
+git commit -m "Deploy to root"
+git branch -M main
+git push origin main --force`
++ Upload all files from the folder `public` to the adashiyj.github.io repository (Notice: do not upload the whole folder)
+
 ## Real-world implementations
 
 + [Pascal Michaillat's website](https://pascalmichaillat.org/) ([source code](https://github.com/pmichaillat/pmichaillat.github.io))
