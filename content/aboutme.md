@@ -33,5 +33,5 @@ Also, I just finished my second read of Kate Darling’s [*The New Breed*](https
 - Hiking (My dream is to land on the top of Mount Everest!)
 - Tennis
 - Ceremics
-- Country and folk muisc (My favourite artists are Bob Dylan and Zach Bryan)
+- Country and folk music (My favourite artists are Bob Dylan and Zach Bryan)
 
