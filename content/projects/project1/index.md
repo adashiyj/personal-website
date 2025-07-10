@@ -8,12 +8,12 @@ author: "Peter et al."
 description: "This graduate course presents classical results in Romance philology." 
 summary: "This graduate course presents classical results in Romance philology. it focuses especially on Portugese and Spanish irregular verbs." 
 cover:
-    image: "course1.png"
-    alt: "Villa of Reduced Circumstances"
+    image: "project1.png"
+    alt: "Four NAO robots"
     relative: true
 editPost:
     URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Course portal"
+    Text: "Project portal"
 showToc: true
 disableAnchoredHeadings: false
 
