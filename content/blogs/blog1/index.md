@@ -8,13 +8,13 @@ disableAnchoredHeadings: false
 
 ---
 
-## Preface
+## Sunshine, Gossip, and an Idea
 
 After wrapping up my first year of the research master’s in Amsterdam, I flew back to Yunnan, China. This week, I’m staying with my 88-year-old grandma in a tiny village near Lijiang. My days drift by sunbathing with her and soaking up an endless stream of neighborhood gossips and family sagas. Between the sunshine and the stories, though, I find myself growing a bit restless in this sleepy, charmingly uneventful town.
 
 A few days ago, while searching for potential PhD programs, I stumbled upon some fascinating personal academic websites. I’d never imagined I’d build one myself, but with all this unexpected free time, a thought crossed my mind: Why not give it a shot?
 
-## How did I get started?
+## Where I Started
 
 Like 95% of people would (and no, there’s no scientific reference for that statistic), I turned to Google and typed, “How to build a personal academic website?” Naturally, hundreds of pages popped up. Perfect! Just like doing research: there’s plenty of data out there, and the next step is to take a bottom-up approach. What’s next? Sift through it all, see what’s out there, and summarize the options. Sounds good in theory, right? But am I really going to read every single page? Nee! Luckily, Google’s AI Overview came to the rescue, and here’s what it suggested:
 + Website builders: Wix, Squarespace, and WordPress offer user-friendly interfaces and templates. 
@@ -23,7 +23,7 @@ Like 95% of people would (and no, there’s no scientific reference for that sta
 
 As a broke student, the free options caught my eyes right away. I didn’t know what static site generators were, but since I'm already a Git user, I decided to give GitHub Pages a shot (I know this blog sounds like Diary of a Wimpy Kid, please stay tuned!). So I searched “building personal website on GitHub Pages” and found the [academic-website](https://github.com/topics/academic-website) topic on GitHub.
 
-## Hosting A Static Website On GitHub Pages
+## How I Hosted My Website On GitHub Pages (for Free!)
 
 There are a few static site generators where you can use to generate your static websites on GitHub Pages:
 + Jekyll: a simple, blog-aware, static site generator written in Ruby [see more](https://jekyllrb.com/).
