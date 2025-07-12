@@ -10,7 +10,7 @@ disableAnchoredHeadings: false
 
 ## Preface
 
-After wrapping up my first year of the research master’s, I flew back to Yunnan, China. This week, I’m staying with my 88-year-old grandma in a tiny village near Lijiang. My days drift by sunbathing with her and soaking up an endless stream of neighborhood gossips and family sagas. Between the sunshine and the stories, though, I find myself growing a bit restless in this sleepy, charmingly uneventful town.
+After wrapping up my first year of the research master’s in Amsterdam, I flew back to Yunnan, China. This week, I’m staying with my 88-year-old grandma in a tiny village near Lijiang. My days drift by sunbathing with her and soaking up an endless stream of neighborhood gossips and family sagas. Between the sunshine and the stories, though, I find myself growing a bit restless in this sleepy, charmingly uneventful town.
 
 A few days ago, while searching for potential PhD programs, I stumbled upon some fascinating personal academic websites. I’d never imagined I’d build one myself, but with all this unexpected free time, a thought crossed my mind: Why not give it a shot?
 
