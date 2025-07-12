@@ -3,7 +3,7 @@ title: "Building Your Own Website 101 (No Stress, Easy Code!)"
 date: 2025-07-12
 author: "Ada Shi"
 summary: "In this blog, I share my journey as a web-building newbie creating my first personal website, plus some easy-to-follow resources to get you started too." 
-showToc: false
+showToc: true
 disableAnchoredHeadings: false
 
 ---
