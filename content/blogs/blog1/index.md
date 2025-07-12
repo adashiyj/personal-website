@@ -47,7 +47,7 @@ git add .
 git commit -m "Deploy to root"
 git branch -M main
 git push origin main --force
-
+```
 + Create a new repository named `yourusername.github.io` and upload all files from the `public` folder (from the forked repository) to this new repository (Important: upload the contents only, not the entire public folder itself!).
 
 Lastly, remember: your website will only deploy if the hosting repository is public. Sometimes deployment takes a few minutes, so be patient, and if something goes wrong, check the `Actions` tab to debug any errors in the workflows.
