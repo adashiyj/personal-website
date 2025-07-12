@@ -1,6 +1,6 @@
 ---
 title: "Building Your Own Website 101 (No Stress, Easy Code!)"
-date: 2025-07-13
+date: 2025-07-12
 author: "Ada Shi"
 summary: "In this blog, I share my journey as a web-building newbie creating my first personal website, plus some easy-to-follow resources to get you started too." 
 showToc: false
@@ -37,7 +37,17 @@ There are many open-source templates. Mine was forked from Pascal Michaillat's [
 In addition, to host your personal website on GitHub Pages safely and get a clean URL like `https://yourusername.github.io/` instead of `yourusername.github.io/hugo-website/`:
 + First, fork the website template repository.
 + Then, open your terminal (MacOS) and run:
-<pre> ```bash cd PATH/TO/YOUR/FORKED/REPO hugo cd public git init git remote add origin https://github.com/yourusername/yourusername.github.io.git git add . git commit -m "Deploy to root" git branch -M main git push origin main --force ``` </pre>
+```bash
+cd PATH/TO/YOUR/FORKED/REPO
+hugo
+cd public
+git init
+git remote add origin https://github.com/yourusername/yourusername.github.io.git
+git add .
+git commit -m "Deploy to root"
+git branch -M main
+git push origin main --force
+
 + Create a new repository named `yourusername.github.io` and upload all files from the `public` folder (from the forked repository) to this new repository (Important: upload the contents only, not the entire public folder itself!).
 
 Lastly, remember: your website will only deploy if the hosting repository is public. Sometimes deployment takes a few minutes, so be patient, and if something goes wrong, check the `Actions` tab to debug any errors in the workflows.
